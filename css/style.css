@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+body {
+	font-family: 'Lato', sans-serif;
+	background: radial-gradient(ellipse at bottom, rgb(151, 141, 172), transparent);
+}
+
+h1,
+.container {
+	max-width: 810px;
+	margin: 0 auto 50px auto;
+	background: radial-gradient(ellipse at bottom, #0c1b9f, transparent);
+}
+
+.search {
+	font-size: 46px;
+	font-weight: 900;
+	color: #1E212C;
+	line-height: 130%;
+	padding: 15px 20px;
+}
+
+img {
+	max-width: 100%;
+}
+
+.pictures {
+	margin-bottom: 60px;
+}
+
+.text-start {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: black;
+	margin-bottom: 24px;
+}
+
+.text-one {
+	color: gray;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	margin-bottom: 48px;
+}
+
+p {
+	margin-bottom: 28px;
+}
+
+.text-one__one-text {
+	color: gray;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	margin-bottom: 48px;
+	padding-left: 48px;
+}
+
+.text-two {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	color: black;
+	margin-bottom: 48px;
+	padding-left: 48px;
+}
+
+.text-tree {
+	color: gray;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	margin-bottom: 24px;
+}
+
+.tempus {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	color: gray;
+	margin-bottom: 24px;
+	padding-left: 32px;
+}
+
+.text-four {
+	color: gray;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	padding-bottom: 50px;
+}
+
+
+.football {
+	font-weight: 900;
+	font-size: 50px;
+	text-align: center;
+	text-shadow: #FC0 1px 0 10px;
+	color: black;
+	margin-bottom: 30px;
+	background-color: aqua;
+}
+
+.back-ground__container {
+	background-image: url(..//img/7857c03d0e57cc1.jpg);
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: gold;
+	overflow: auto;
+	margin-bottom: 30px;
+	max-height: 500px;
+}
